@@ -9,7 +9,7 @@ This project uses FIFA 2020 dataset available on Kaggle by Stefano Leone
 
 Link: https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
 
-## Methodolgy
+## Methodology
 This problem's solution can be solved using the methodology of 'MoneyBall' introduced by the book, Moneyball: The Art of Winning an Unfair Game by Michael Lewis. The book argues that there are statistics of players that are very important for their performance but are generally overlooked. This method uses those overlooked attributes to sign players who are undervalued.
 
 For feature selection, this project uses Mutual info regression to calculate the dependency of the players with their overall rating to detect the most important features
